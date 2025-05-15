@@ -1,0 +1,20 @@
+file:europa.gif
+Paris;264.0;416.0;Dublin;181.0;306.0;Oslo;398.0;220.0;Stockholm;470.0;242.0;Warszawa;501.0;377.0;asdasd asd;147.0;64.0;Amsterdam;309.0;350.0;London;245.0;360.0;Madrid;139.0;555.0;Lisabon;50.0;558.0;Berlin;411.0;368.0;
+Paris;London;Train;2;
+Paris;Amsterdam;Train;4;
+Paris;Berlin;Train;10;
+Paris;Madrid;Train;10;
+Dublin;London;Boat;15;
+Oslo;Berlin;Airplane;2;
+Stockholm;Berlin;Airplane;3;
+Warszawa;Berlin;Train;6;
+Amsterdam;Paris;Train;4;
+London;Paris;Train;2;
+London;Dublin;Boat;15;
+Madrid;Lisabon;Train;3;
+Madrid;Paris;Train;10;
+Lisabon;Madrid;Train;3;
+Berlin;Paris;Train;10;
+Berlin;Stockholm;Airplane;3;
+Berlin;Warszawa;Train;6;
+Berlin;Oslo;Airplane;2;
